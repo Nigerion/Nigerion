@@ -1,6 +1,6 @@
 # Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Меня зовут Антон, и я рад приветствовать вас на моем профиле GitHub!<br>
- 👨‍💻 Я - Frontend-разработчик из Саратова.<br>
+ 👨‍💻 Я - Frontend-разработчик.<br>
  🌱 Я постоянно читаю, стремясь улучшить свои навыки.<br>
  
 
